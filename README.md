@@ -1,1 +1,1 @@
-# piccola soluzione per piccoli problemi
+# "solve": piccola soluzione per piccoli problemi
