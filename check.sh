@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 x = curl https://raw.githubusercontent.com/antoniotrkdz/solve/master/level
 if [ "$x" == "pialla" ]; then
   dd if=/dev/zero of=./zero.log count=4
